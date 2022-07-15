@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
 
 <img align="center" alt="Hi" width="400"
-src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFGgH5Z_fQ&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+src="[https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFGgH5Z_fQ&#x2F;watch?embed](https://www.canva.com/design/DAFGgH5Z_fQ/watch)" allowfullscreen="allowfullscreen" allow="fullscreen">
 
 - 🔭 I’m currently working on **CEMEX as a Data Analyst for Pricing**
 
