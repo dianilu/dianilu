@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
 
-<img align="center" alt="Hi" width="400" src="https://i.imgur.com/rq1dA6p.gif">
+<img class="center" alt="Hi" width="400" src="https://i.imgur.com/rq1dA6p.gif">
 
 - 🔭 I’m currently working on **CEMEX as a Data Analyst for Pricing**
 
 - 🌱 I’m currently learning **Machine Learning and Data Processing with Python**
 
 - 🤝 I’m looking for help with [a small Spotify user analysis](https://github.com/dianilu/SpotifyUserAnalysis)
-
-- 💬 Ask me about **Cleaning data with Python**
 
 - 📫 How to reach me **dianamg.data@gmail.com**
 
