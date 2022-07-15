@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dianamg.data@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CUtVcRvCB0oasBfxo7PtbOC_Ow4IPgjd/view?usp=sharing](https://drive.google.com/file/d/1CUtVcRvCB0oasBfxo7PtbOC_Ow4IPgjd/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/aboutdianalucia](https://bit.ly/aboutdianalucia)
 
 - ⚡ Fun fact **When in highschool, I thought math was the worst and wanted to get away from it**
 
