@@ -8,9 +8,9 @@
 
 - 🤝 I’m looking for help with [a small Spotify user analysis](https://github.com/dianilu/SpotifyUserAnalysis)
 
-- 📫 How to reach me **dianamg.data@gmail.com**
+- 📫 Reach me at: **dianamg.data@gmail.com**
 
-- 📄 Know about my experiences [Check out my CV:)](https://bit.ly/aboutdianalucia)
+- 📄 Know about my experiences in [my CV:)](https://bit.ly/aboutdianalucia)
 
 - ⚡ Fun fact **When in highschool, I thought math was the worst and wanted to get away from it**
 
