@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
 
-<center><img alt="Hi" src="https://i.imgur.com/rq1dA6p.gif"></center>
+<div><img alt="Hi" src="https://i.imgur.com/rq1dA6p.gif"></div>
   
 - 🔭 I’m currently working on **CEMEX as a Data Analyst for Pricing**
 
