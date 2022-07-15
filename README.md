@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
 
-<img align="center" alt="Hi" width="400"
-src="https://imgur.com/a/2DcmGjS" allowfullscreen="allowfullscreen" allow="fullscreen">
+<img align="center" alt="Hi" width="400" src="https://imgur.com/a/2DcmGjS">
 
 - 🔭 I’m currently working on **CEMEX as a Data Analyst for Pricing**
 
